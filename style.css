@@ -27,7 +27,7 @@ body{
   font-size: 60px;
   font-weight: 700;
   letter-spacing: 8px;
-  background: whitesmoke;
+  background: azure;
   position: relative;
   animation: text 3s 1;
 }
